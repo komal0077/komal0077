@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-* 🔭 Currently working on **[InsightAI](https://github.com/komal0077/InsightAI)**
+
 * 💻 Java Full-Stack Developer with experience in **Spring Boot, Angular, React, and Node.js**
 * 🤖 Currently exploring **Generative AI, RAG, LangGraph, and AI-powered applications**
 * 🏗️ Interested in **System Design, Microservices, Distributed Systems, and Backend Architecture**
